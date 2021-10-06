@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ani-mate/static/css/main.a617e044.chunk.css",
+    "main.js": "/ani-mate/static/js/main.5d2fec6d.chunk.js",
+    "main.js.map": "/ani-mate/static/js/main.5d2fec6d.chunk.js.map",
+    "runtime-main.js": "/ani-mate/static/js/runtime-main.ff98ea4f.js",
+    "runtime-main.js.map": "/ani-mate/static/js/runtime-main.ff98ea4f.js.map",
+    "static/js/2.99a729ea.chunk.js": "/ani-mate/static/js/2.99a729ea.chunk.js",
+    "static/js/2.99a729ea.chunk.js.map": "/ani-mate/static/js/2.99a729ea.chunk.js.map",
+    "static/js/3.5cdbef37.chunk.js": "/ani-mate/static/js/3.5cdbef37.chunk.js",
+    "static/js/3.5cdbef37.chunk.js.map": "/ani-mate/static/js/3.5cdbef37.chunk.js.map",
+    "index.html": "/ani-mate/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/ani-mate/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.99a729ea.chunk.js.LICENSE.txt": "/ani-mate/static/js/2.99a729ea.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ani-mate/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff98ea4f.js",
+    "static/js/2.99a729ea.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.5d2fec6d.chunk.js"
+  ]
+}
